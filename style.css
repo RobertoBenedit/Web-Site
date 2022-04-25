@@ -170,7 +170,7 @@ header {
 /* Start Home Section **************************************** */
 
 .home {
-    background-image: url("https://img.indianautosblog.com/crop/1200x675/2015/09/Fiat-strada-adventure-extreme-front-press.jpg");
+    background-image: url("/images/portada.jpg");
     /* background: linear-gradient(to bottom, transparent, 95%, rgb(199, 148, 129)),
     url("https://img.indianautosblog.com/crop/1200x675/2015/09/Fiat-strada-adventure-extreme-front-press.jpg"); */
     position: relative;
@@ -718,13 +718,16 @@ h1 {
 
 @media (max-width: 779px) {
     header {
-        padding: 50px 40px;
+        padding: 30px 40px;
     }
     #menu-icon {
         display: initial;
     }
     .sign-up {
         display: none;
+    }
+    .text {
+        padding-top: 25px;
     }
     .text h1 {
         font-size: 2.5rem;
@@ -825,7 +828,7 @@ h1 {
 
 @media (max-width: 350px) {
     header {
-        padding: 6px 40px;
+        padding: 30px 40px;
     }
     .logo img {
         width: 30px;
