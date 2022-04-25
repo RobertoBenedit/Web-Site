@@ -170,8 +170,7 @@ header {
 /* Start Home Section **************************************** */
 
 .home {
-
-    background-image: url("../images/portada.jpg");
+    background-image: url("./images/portada.jpg");
     position: relative;
     width: 100%;
     min-height: 100vh;
