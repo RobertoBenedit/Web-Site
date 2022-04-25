@@ -170,7 +170,7 @@ header {
 /* Start Home Section **************************************** */
 
 .home {
-    background-image: url("./images/portada.jpg");
+    background-image: url("images/portada.jpg");
     /* background: linear-gradient(to bottom, transparent, 95%, rgb(199, 148, 129)),
     url("https://img.indianautosblog.com/crop/1200x675/2015/09/Fiat-strada-adventure-extreme-front-press.jpg"); */
     position: relative;
