@@ -119,6 +119,11 @@ header {
     list-style: none;
     /* height: 80px; */
 }
+.navbar li a img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
 
 .navbar a {
     font-size: 1rem;
@@ -671,6 +676,19 @@ h1 {
 .copyright a {
     color: #fff;
 }
+.w-logo {
+    position: fixed;
+    right: 26px;
+    bottom: 100px;
+    width: 60px;
+    height: 60px;
+    z-index: 1000;
+}
+.appwhatsapp {
+    width: 50px;
+    height: 50px;
+}
+
 
 /* End Footer Section  **************************************************/
 
@@ -822,7 +840,6 @@ h1 {
         box-shadow: none;
         /* box-shadow: -5px -5px 125px 5px #d4b13b; */
     }
-
 }
 
 @media (max-width: 350px) {
