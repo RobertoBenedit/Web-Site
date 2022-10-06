@@ -119,6 +119,7 @@ header {
     list-style: none;
     /* height: 80px; */
 }
+
 .navbar li a img {
     width: 30px;
     height: 30px;
@@ -689,7 +690,6 @@ h1 {
     height: 50px;
 }
 
-
 /* End Footer Section  **************************************************/
 
 /* Start term y cond Section  **************************************************/
@@ -840,6 +840,7 @@ h1 {
         box-shadow: none;
         /* box-shadow: -5px -5px 125px 5px #d4b13b; */
     }
+
 }
 
 @media (max-width: 350px) {
